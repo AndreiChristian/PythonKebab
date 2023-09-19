@@ -8,7 +8,6 @@ lista_produse = []
 while program_activ:  # Cat timp program_activ este true
 
     print("Bine ati venit la Python Kebab!")  # Printam un mesaj de bun venit
-
     print("1.Kebab\n2.Suc\n3.Cartofi\n4.Meniu\n5.Arata cosul\n6.Pretul total")
 
     # Intrebam utilizatorul ce doreste sa
