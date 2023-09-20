@@ -1,7 +1,6 @@
 body {
     background: linear-gradient(280deg, #ff3150, orange) no-repeat center fixed;
     background-size: 200% 200%;
-    font-family: 'Gloria Hallelujah', cursive;
     color: rgb(233, 233, 233);
     animation: gradient-animation 8s ease infinite;
 }
