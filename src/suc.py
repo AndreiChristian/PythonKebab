@@ -5,7 +5,7 @@ from produs import Produs  # Din produs.py importam
 class Cola(Produs):
 
     def __init__(self, pret=8):
-        super().__init__("Coca Cola", pret)
+        super().__init__("Coca-Cola", pret)
 
 
 class Fanta(Produs):
