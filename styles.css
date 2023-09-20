@@ -5,7 +5,7 @@ body {
     color: rgb(233, 233, 233);
     animation: gradient-animation 8s ease infinite;
 }
-
+ 
 body > div {
     background-color: rgba(0, 0, 0, 0.8);
 }
